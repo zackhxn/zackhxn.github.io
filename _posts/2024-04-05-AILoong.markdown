@@ -27,7 +27,9 @@ tags:
   <iframe src="//player.bilibili.com/player.html?aid=1352358430&bvid=BV1tz421f7uT&cid=1484520933&p=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
 </div>
 原图：
-![原图1](https://zackhxn.github.io/img/投稿-图片1-1024.png) ![风格转换2](https://zackhxn.github.io/img/投稿-图片（1）.png)
+<img src="https://zackhxn.github.io/img/投稿1.png" alt="原图1" width="45%" /> <img src="https://zackhxn.github.io/img/投稿2.png" alt="原图2" width="45%" />
+得到了知名UP主的评价：
+![评价1](https://zackhxn.github.io/img/评论1.png) 
 
 ## 🏆 水晶主机的制作流程 
 此作品拿了一张京东卡的奖励
@@ -35,3 +37,9 @@ tags:
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="//player.bilibili.com/player.html?aid=1802440585&bvid=BV1zt42137Pg&cid=1486770576&p=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
 </div>
+
+
+
+## 动漫风格的龙在“撕咬”显卡
+
+<iframe src="//player.bilibili.com/player.html?aid=1502369395&bvid=BV1zD421V7nj&cid=1484082558&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
