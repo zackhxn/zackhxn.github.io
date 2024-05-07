@@ -22,6 +22,10 @@ tags:
 
 # 投稿视频
 ## 显卡之争：The Silicon Draconis Siege
+使用文生图+controlnet+inpaint+呼吸动画工作流
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="//player.bilibili.com/player.html?aid=1352358430&bvid=BV1tz421f7uT&cid=1484520933&p=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
 </div>
+
+
+## 
