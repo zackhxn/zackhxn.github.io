@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "gitlab使用手册"
+title:      "笔记-gitlab使用手册"
 subtitle:   " \"gitlab使用手册\""
-date:       2024-04-24 22:00:00
+date:       2024-01-24 22:00:00
 author:     "zack"
 catalog: true
 tags:
