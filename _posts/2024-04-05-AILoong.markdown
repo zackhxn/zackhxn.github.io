@@ -22,12 +22,14 @@ tags:
 
 # 投稿视频
 ## 显卡之争：The Silicon Draconis Siege
-使用文生图+controlnet+inpaint+呼吸动画工作流
+使用文生图+controlnet+图像超分+inpaint+呼吸动画工作流
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="//player.bilibili.com/player.html?aid=1352358430&bvid=BV1tz421f7uT&cid=1484520933&p=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
 </div>
 原图：
-<img src="https://zackhxn.github.io/img/投稿1.png" alt="原图1" width="45%" /> <img src="https://zackhxn.github.io/img/投稿2.png" alt="原图2" width="45%" />
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://zackhxn.github.io/img/投稿1.png" alt="原图1" width="45%" /> <img src="https://zackhxn.github.io/img/投稿2.png" alt="原图2" width="45%" />
+</div >  
 得到了知名UP主的评价：
 ![评价1](https://zackhxn.github.io/img/评论1.png) 
 
@@ -46,6 +48,7 @@ tags:
 
 ## 🏆 迷幻森林龙
 此作品获得了500🪙奖励
+使用SD+Controlnet+Runway生成
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="//player.bilibili.com/player.html?aid=1552293168&bvid=BV1T1421D7ht&cid=1482569123&p=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -53,6 +56,7 @@ tags:
 ![评价2](https://zackhxn.github.io/img/评论2.png) 
 
 ## 冰霜龙为微星显卡带来冰风降温
+使用SD+Runway运动笔刷生成
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="//player.bilibili.com/player.html?aid=1452157543&bvid=BV1ai42197YS&cid=1481918686&p=1"  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
 </div>
