@@ -12,5 +12,5 @@ tags:
 > “Yeah It's on. ”
 <iframe src="//player.bilibili.com/player.html?aid=1352358430&bvid=BV1tz421f7uT&cid=1484520933&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 # 比赛介绍
-![](img/msi1.png)
-![](img/msi2.png)
+![](https://zackhxn.github.io/img/msi1.png)
+![](https://zackhxn.github.io/img/msi2.png)
