@@ -38,8 +38,21 @@ tags:
   <iframe src="//player.bilibili.com/player.html?aid=1802440585&bvid=BV1zt42137Pg&cid=1486770576&p=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
-
 ## 动漫风格的龙在“撕咬”显卡
+使用SD+Runway运动笔刷生成
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//player.bilibili.com/player.html?aid=1502369395&bvid=BV1zD421V7nj&cid=1484082558&p=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
+</div>
 
-<iframe src="//player.bilibili.com/player.html?aid=1502369395&bvid=BV1zD421V7nj&cid=1484082558&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+## 🏆 迷幻森林龙
+此作品获得了500🪙奖励
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//player.bilibili.com/player.html?aid=1552293168&bvid=BV1T1421D7ht&cid=1482569123&p=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
+</div>
+视频评论：
+![评价2](https://zackhxn.github.io/img/评论2.png) 
+
+## 冰霜龙为微星显卡带来冰风降温
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//player.bilibili.com/player.html?aid=1452157543&bvid=BV1ai42197YS&cid=1481918686&p=1"  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
+</div>
